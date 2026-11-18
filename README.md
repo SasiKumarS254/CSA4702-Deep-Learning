@@ -27,30 +27,30 @@
 | 4 | CO1 | Entropy, Cross-Entropy and KL Divergence | NumPy, SciPy, Matplotlib | Completed |
 | 5 | CO1 | Bias–Variance, Overfitting and Underfitting Analysis | Scikit-learn, NumPy, Matplotlib | Completed |
 | 6 | CO1 | Gradient Descent, SGD, Momentum and Adam Comparison | NumPy, TensorFlow, Keras, Matplotlib | Completed |
-| 7 | CO2 | Perceptron and Forward Propagation | NumPy, Matplotlib | In Progress |
-| 8 | CO2 | Two-Layer Neural Network with Backpropagation | NumPy, Matplotlib | In Progress |
-| 9 | CO2 | Multilayer Perceptron Implementation | TensorFlow, Keras, NumPy, Matplotlib | In Progress |
-| 10 | CO2 | L2, Dropout and Early Stopping Comparison | TensorFlow, Keras, NumPy, Matplotlib | In Progress |
-| 11 | CO2 | CNN for Image Classification | TensorFlow, Keras, NumPy, Matplotlib | In Progress |
-| 12 | CO2 | CNN Architecture and Hyperparameter Comparison | TensorFlow, Keras, NumPy, Matplotlib | In Progress |
-| 13 | CO3 | Sequential Dataset Preparation and RNN Prediction | TensorFlow, Keras, NumPy, Pandas, Matplotlib | In Progress |
-| 14 | CO3 | Unfolded RNN Architecture Visualization | TensorFlow, Keras, NetworkX, Matplotlib | In Progress |
-| 15 | CO3 | BPTT Flow and Gradient Analysis | TensorFlow, Keras, NumPy, Matplotlib | In Progress |
-| 16 | CO3 | LSTM and RNN Performance Comparison | TensorFlow, Keras, NumPy, Pandas, Matplotlib | In Progress |
-| 17 | CO3 | RNN Gradient Analysis and Gradient Clipping | TensorFlow, Keras, NumPy, Matplotlib | In Progress |
-| 18 | CO3 | RNN, LSTM and GRU Hyperparameter Experimentation | TensorFlow, Keras, NumPy, KerasTuner, Matplotlib | In Progress |
-| 19 | CO4 | PCA and Explained Variance Analysis | NumPy, Scikit-learn, Matplotlib | In Progress |
-| 20 | CO4 | Probabilistic PCA and Reconstruction Analysis | NumPy, Scikit-learn, Matplotlib | In Progress |
-| 21 | CO4 | Factor Analysis and Latent Factor Interpretation | Scikit-learn, NumPy, Pandas, Matplotlib | In Progress |
-| 22 | CO4 | Independent Component Analysis and Component Visualization | Scikit-learn, NumPy, Matplotlib | In Progress |
-| 23 | CO4 | Bayesian Network Construction and Visualization | pgmpy, NetworkX, Matplotlib | In Progress |
-| 24 | CO4 | Graphical Model Sampling and Probabilistic Inference | pgmpy, NumPy, Pandas, NetworkX, Matplotlib | In Progress |
-| 25 | CO5 | Restricted Boltzmann Machine Energy and Reconstruction | NumPy, SciPy, Matplotlib | In Progress |
-| 26 | CO5 | Gibbs Sampling and Contrastive Divergence Analysis | NumPy, SciPy, Matplotlib | In Progress |
-| 27 | CO5 | Deep Belief Network Representation Learning | NumPy, SciPy, TensorFlow, Keras, Matplotlib | In Progress |
-| 28 | CO5 | Deep Boltzmann Machine / Convolutional Boltzmann Machine Simulation | NumPy, SciPy, TensorFlow, Keras, Matplotlib | In Progress |
-| 29 | CO5 | VAE/GAN Sample Generation | TensorFlow, Keras, NumPy, Matplotlib | In Progress |
-| 30 | CO5 | Generative Model Output Comparison and Evaluation | TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib | In Progress |
+| 7 | CO2 | Perceptron and Forward Propagation | NumPy, Matplotlib | Completed |
+| 8 | CO2 | Two-Layer Neural Network with Backpropagation | NumPy, Matplotlib | Completed |
+| 9 | CO2 | Multilayer Perceptron Implementation | TensorFlow, Keras, NumPy, Matplotlib | Completed |
+| 10 | CO2 | L2, Dropout and Early Stopping Comparison | TensorFlow, Keras, NumPy, Matplotlib | Completed |
+| 11 | CO2 | CNN for Image Classification | TensorFlow, Keras, NumPy, Matplotlib | Completed |
+| 12 | CO2 | CNN Architecture and Hyperparameter Comparison | TensorFlow, Keras, NumPy, Matplotlib | Completed |
+| 13 | CO3 | Sequential Dataset Preparation and RNN Prediction | TensorFlow, Keras, NumPy, Pandas, Matplotlib | Completed |
+| 14 | CO3 | Unfolded RNN Architecture Visualization | TensorFlow, Keras, NetworkX, Matplotlib | Completed |
+| 15 | CO3 | BPTT Flow and Gradient Analysis | TensorFlow, Keras, NumPy, Matplotlib | Completed |
+| 16 | CO3 | LSTM and RNN Performance Comparison | TensorFlow, Keras, NumPy, Pandas, Matplotlib | Completed |
+| 17 | CO3 | RNN Gradient Analysis and Gradient Clipping | TensorFlow, Keras, NumPy, Matplotlib | Completed |
+| 18 | CO3 | RNN, LSTM and GRU Hyperparameter Experimentation | TensorFlow, Keras, NumPy, KerasTuner, Matplotlib | Completed |
+| 19 | CO4 | PCA and Explained Variance Analysis | NumPy, Scikit-learn, Matplotlib | Completed |
+| 20 | CO4 | Probabilistic PCA and Reconstruction Analysis | NumPy, Scikit-learn, Matplotlib | Completed |
+| 21 | CO4 | Factor Analysis and Latent Factor Interpretation | Scikit-learn, NumPy, Pandas, Matplotlib | Completed |
+| 22 | CO4 | Independent Component Analysis and Component Visualization | Scikit-learn, NumPy, Matplotlib | Completed |
+| 23 | CO4 | Bayesian Network Construction and Visualization | pgmpy, NetworkX, Matplotlib | Completed |
+| 24 | CO4 | Graphical Model Sampling and Probabilistic Inference | pgmpy, NumPy, Pandas, NetworkX, Matplotlib | Completed |
+| 25 | CO5 | Restricted Boltzmann Machine Energy and Reconstruction | NumPy, SciPy, Matplotlib | Completed |
+| 26 | CO5 | Gibbs Sampling and Contrastive Divergence Analysis | NumPy, SciPy, Matplotlib | Completed |
+| 27 | CO5 | Deep Belief Network Representation Learning | NumPy, SciPy, TensorFlow, Keras, Matplotlib | Completed |
+| 28 | CO5 | Deep Boltzmann Machine / Convolutional Boltzmann Machine Simulation | NumPy, SciPy, TensorFlow, Keras, Matplotlib | Completed |
+| 29 | CO5 | VAE/GAN Sample Generation | TensorFlow, Keras, NumPy, Matplotlib | Completed |
+| 30 | CO5 | Generative Model Output Comparison and Evaluation | TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib | Completed |
 
 ---
 
