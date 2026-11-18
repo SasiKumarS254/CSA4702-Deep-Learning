@@ -51,12 +51,19 @@
 | 28 | CO5 | Deep Boltzmann Machine / Convolutional Boltzmann Machine Simulation | NumPy, SciPy, TensorFlow, Keras, Matplotlib | Completed |
 | 29 | CO5 | VAE/GAN Sample Generation | TensorFlow, Keras, NumPy, Matplotlib | Completed |
 | 30 | CO5 | Generative Model Output Comparison and Evaluation | TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib | Completed |
+| Bonus | CO5 | Samurai vs. Ninja Tactical Simulation via Conditional GAN (cGAN) | PyTorch, NumPy, Pandas, Matplotlib | Completed |
 
 ---
 
 ## 📂 Repository Structure
 
-Each experiment is contained within its designated directory under `Experiments/Exp. <n>/` with:
-- `p<n>.py`: Comprehensive, modular Python implementation script.
-- `plot1_<name>.png`, `plot2_<name>.png`: Publication-grade 300 DPI visualizations.
-- `table 1.png` - `table <k>.png`: Exact terminal output tables rendered with high legibility.
+- **`Experiments/Exp. <n>/` (Experiments 1 to 30)**:
+  - `p<n>.py`: Comprehensive, modular Python implementation script.
+  - `plot1_<name>.png`, `plot2_<name>.png`: Publication-grade 300 DPI visualizations.
+  - `table 1.png` - `table <k>.png`: Exact terminal output tables rendered with high legibility.
+
+- **`samurai/` (Special Capstone Experiment)**:
+  - `samurai_ninja_gan.py`: Conditional Generative Adversarial Network (cGAN) for synthetic battle profile generation.
+  - `samurai_ninja_trap_escape_1000.csv`: Conditioned tactical dataset with 1,000 synthesized encounters (`escape` vs. `trap`).
+  - `plot1_cgan_training_dynamics.png`, `plot2_tactical_escape_distribution.png`: 300 DPI adversarial loss and tactical radar profiles.
+  - `table 1.png` - `table 5.png`: High-legibility terminal output tables for combat influence, architecture, and tactical outcomes.
